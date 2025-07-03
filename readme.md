@@ -32,4 +32,4 @@
 
 ## How to Reproduce
 1. Install required libraries
-2. Run `analysis.ipynb`
+2. Run `Stroke risk analysis.ipynb`
